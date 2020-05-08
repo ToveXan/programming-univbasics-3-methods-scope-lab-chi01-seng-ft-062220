@@ -11,7 +11,7 @@ end
 
 def link
   sword = "It's Dangerous To Go Alone! Take This."
-  puts sword
+  sword
 end
 
 mario
